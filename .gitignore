@@ -1,0 +1,7 @@
+/venv/
+/.venv/
+/env/
+/site/
+__pycache__/
+*.pyc
+.cache/

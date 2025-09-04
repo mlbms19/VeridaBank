@@ -1,0 +1,72 @@
+
+site_name: VeridaBank Help Platform
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  
+  font:
+    text: Aptos
+
+  palette:
+    primary: teal
+    accent: green
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+
+nav:
+    - Help Platform: index.md
+    - Quick Answers:
+        - Can I increase my transfer limit?: Quick Answers/Increase Transfer Limits.md
+        - How do I activate my card?: Quick Answers/Activate Card.md
+        - How do I report a lost or stolen card?: Quick Answers/Report Lost or Stolen Card.md
+        - Where can I find my account statements?: Quick Answers/Find Account Statements.md
+    - Account Setup:
+        - How do I set up two-factor authentication (2FA)?: Account Setup/Set up 2FA.md
+    - Account Management:
+        - How do I reset my password?: Account Management/Reset Password.md
+        - How do I update my account information?: Account Management/Update Account Info.md
+        - How do I register for e-Billing?: Account Management/Register for eBilling.md
+    - Everyday Banking:
+        - How do I view transactions?: Everyday Banking/View Transactions.md
+        - How do I view or download account statements?: Everyday Banking/View or Download Statements.md
+    - Payments & Transfers:
+        - How do I pay bills?: Payments & Transfers/Pay Bills.md
+        - How do I transfer funds between banking accounts?: Payments & Transfers/Transfer Funds.md
+        - How do I transfer funds to another person?: Payments & Transfers/Transfer Funds to Another Person.md
+    - Security:
+        - How do I report a lost or stolen card?: Security/Report Lost Card.md
+        - How do I reset my card PIN?: Security/Reset Card PIN.md
+        - How do I dispute a charge?: Security/Dispute a Charge.md
+
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+extra_css:
+  - stylesheets/extra.css
