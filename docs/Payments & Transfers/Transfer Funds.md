@@ -1,6 +1,6 @@
 # How do I transfer funds between banking accounts?
 
-You can move money between your VeridaBank accounts anytime in **VeridaBank Online**.
+You can move money between your VeridaBank accounts anytime on **VeridaBank Online**.
 
 1.	Go to **Banking > Internal Transfer**.
 2.	In the **Transfer From** dropdown, select the account you’re transferring from (e.g., Checking).
