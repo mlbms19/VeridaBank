@@ -20,4 +20,4 @@
     6.	Click (or tap) **Change** to save your new PIN.
 ???+ warning "Security Note"
 
-    Do not use easy-to-guess numbers (e.g., 1234, your birth year).
+    Do **NOT** use easy-to-guess numbers (e.g., 1234, your birth year).
