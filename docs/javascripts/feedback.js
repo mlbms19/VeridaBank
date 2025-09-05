@@ -10,13 +10,13 @@
     function show(text) {
       if (!msg) return;
 
-      // Set the message text
-      msg.textContent = text;
+      // Set the message text (allow HTML)
+      msg.innerHTML = text;
 
       // 🔒 Enforce the exact look regardless of theme CSS
       msg.style.color = '#bbb';       // lighter grey than body text
-      msg.style.fontStyle = 'italic'; // italicized
-      msg.style.fontWeight = '100';   // force non-bold
+      msg.style.fontStyle = 'italic'; // italicized text
+      msg.style.fontWeight = '100';   // very light
       msg.style.marginTop = '1rem';   // keep the gap
 
       // Replay the fade-in
@@ -37,7 +37,9 @@
       return clone;
     }
 
-    rebind(yes, () => show("We're glad we could help! 🙂"));
+    rebind(yes, () => show(
+      "We're glad we could help! <span class='no-italic' style=\"font-style:normal;font-weight:400;font-family:'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji','Twemoji Mozilla','EmojiOne Color',sans-serif\">🙂</span>"
+    ));
     rebind(no,  () => show("We heard you. We’ll work on making this article better."));
   }
 

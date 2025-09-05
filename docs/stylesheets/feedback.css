@@ -51,3 +51,16 @@
   font-weight: 300;  /* lighter look */
 }
 
+/* Keep emojis upright even inside italic messages */
+.no-italic {
+  font-style: normal !important;
+}
+
+/* Keep emoji upright even inside italic text */
+.no-italic {
+  font-style: normal !important;
+  font-weight: 400 !important;
+  /* Force a color-emoji font so browsers don’t skew it */
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji",
+               "Twemoji Mozilla", "EmojiOne Color", sans-serif !important;
+}
