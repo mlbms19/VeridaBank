@@ -3,6 +3,8 @@ site_name: VeridaBank Help Platform
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+
+  logo: Assets/logo.png
   
   font:
     text: Aptos
