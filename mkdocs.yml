@@ -50,7 +50,7 @@ nav:
     - Account Setup:
         - How do I set up two-factor authentication (2FA)?: Account Setup/Set up 2FA.md
     - Account Management:
-        - How do I reset my password?: Account Management/Reset Password.md
+        - How do I change my password?: Account Management/Change Password.md
         - How do I update my account information?: Account Management/Update Account Info.md
         - How do I register for e-Billing?: Account Management/Register for eBilling.md
     - Everyday Banking:

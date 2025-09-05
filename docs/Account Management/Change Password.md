@@ -1,6 +1,6 @@
-# How do I reset my password?
+# How do I change my password?
 
-If you’ve forgotten your password, you can reset it quickly on **VeridaBank Online**.
+If you want to change your password, you can do so easily on **VeridaBank Online**.
 
 1.	Go to **Accounts > Password Reset**.
 2.  Enter your **current password**.
