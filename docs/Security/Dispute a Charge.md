@@ -3,7 +3,7 @@
 **On VeridaBank Online**
 
 1.	Go to **Account > Charges > Dispute Center**.
-2.	Fill in the requested details under Dispute a Charge (e.g., transaction date, amount, reason for dispute).
+2.	Fill in the requested details under **Dispute a Charge** (e.g., transaction date, amount, reason for dispute).
 3.	Click **Submit**.
 
 ???+ info "Tip"

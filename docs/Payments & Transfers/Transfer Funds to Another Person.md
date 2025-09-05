@@ -8,7 +8,7 @@ You can transfer funds to another person, even if they don’t have a VeridaBank
 2.	In the **Transfer From** dropdown, select the account you’re transferring from (e.g., Checking).
 3.	Reuse or add recipient details:
     
-    - *Previous recipient*:<br><br>
+    - *Previous recipient*:<br>
 
         ![](External Transfer.png)    
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Open the dropdown for **Previous Recipient**.<br>
