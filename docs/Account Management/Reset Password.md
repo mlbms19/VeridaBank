@@ -3,9 +3,10 @@
 If you’ve forgotten your password, you can reset it quickly on **VeridaBank Online**.
 
 1.	Go to **Accounts > Password Reset**.
-2.	Enter your new password.
-3.	Re-enter your password to confirm.
-4.	Click **Confirm**.
+2.  Enter your **current password**.
+3.	Enter your **new password**.
+4.	Re-enter your new password to confirm.
+5.	Click **Reset**.
 
 ???+ abstract "Password Requirements"
 
