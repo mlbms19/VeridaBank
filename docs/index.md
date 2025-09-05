@@ -1,3 +1,8 @@
+---
+hide_feedback: true
+---
+
+
 #VeridaBank Help Platform
 
 Whether you’re *getting started* or looking for *quick support* for your everyday banking, you’ll find all the answers you need here.

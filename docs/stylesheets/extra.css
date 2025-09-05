@@ -5,11 +5,14 @@
 }
 
 .dotted {
-  border-bottom: 2px dotted currentColor; /* dotted underline */
+  display: inline-block;                         /* ensures the border shows cleanly */
+  border-bottom: 2px dotted currentColor !important; 
   padding-bottom: 2px;
-  text-decoration: none; /* remove default underline */
+  text-decoration: none !important;              /* override theme underline */
+  /* no need to set font-weight here if you're using **bold** in Markdown */
 }
 
 .dotted:hover {
-  color: var(--md-accent-fg-color); /* use Material's accent color on hover */
+  color: var(--md-accent-fg-color);
 }
+

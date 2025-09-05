@@ -1,8 +1,15 @@
-
 site_name: VeridaBank Help Platform
 site_url: https://mydomain.org/mysite
+
+extra_css:
+  - stylesheets/feedback.css
+
+extra_javascript:
+  - javascripts/feedback.js
+
 theme:
   name: material
+  custom_dir: overrides
   logo: logo.png
   favicon: logo.png
 

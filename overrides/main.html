@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+
+  {% if not page.meta.hide_feedback %}
+  <div class="md-typeset">
+    <div class="feedback-footer">
+      <span class="feedback-question">Did this help you?</span>
+      <a href="#" class="feedback-link" id="feedback-yes">Yes</a>
+      <a href="#" class="feedback-link" id="feedback-no">No</a>
+      <div id="feedback-message" aria-live="polite"></div>
+    </div>
+  </div>
+  {% endif %}
+{% endblock %}

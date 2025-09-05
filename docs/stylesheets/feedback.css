@@ -1,0 +1,53 @@
+/* Feedback block wrapper */
+.md-typeset .feedback-footer {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-top: 40rem;   /* space above the block */
+  font: inherit;
+}
+
+/* Prompt: "Did this help you?" in green */
+.md-typeset .feedback-question {
+  color: var(--md-primary-fg-color, #4CAF50);
+  font-weight: 600;
+  margin-right: 0.5rem;
+  font: inherit;
+}
+
+/* Yes/No links */
+.md-typeset .feedback-link {
+  color: var(--md-default-fg-color, #2f2f2f);
+  font-weight: 500;
+  text-decoration: none;
+  margin-left: 8px;
+  cursor: pointer;
+  font: inherit;
+}
+.md-typeset .feedback-link:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+/* Output message (appears after Yes/No click) */
+.md-typeset .feedback-footer #feedback-message {
+  margin-top: 1rem;          /* gap above */
+  font-style: italic;        /* italicized */
+  font-size: 0.85rem;        /* smaller than body */
+  font-weight: normal;       /* not bold */
+  color: #d9d6d6 !important;    /* lighter grey */
+  opacity: 0;                /* hidden until fade-in */
+  transition: opacity .35s ease;
+  font: inherit;
+}
+
+/* When message is shown */
+.md-typeset .feedback-footer #feedback-message.show {
+  opacity: 1;
+}
+
+.md-typeset .feedback-footer #feedback-message {
+  font-family: "Aptos Light", "Aptos", sans-serif;  /* only here */
+  font-weight: 300;  /* lighter look */
+}
+
