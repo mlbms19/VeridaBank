@@ -3,7 +3,7 @@
 **On VeridaBank Online**
 
 1.	Select **Account Statements**.
-2.	Filter by bank account and statement date.<br>
+2.	Filter by **Bank Account** and **Statement Date**.<br>
 
     ![](Account Statements Step.png)<br>
 3.	To view a statement, click (or tap) **View**.<br>
