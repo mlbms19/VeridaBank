@@ -3,7 +3,7 @@ hide_feedback: true
 ---
 
 
-#VeridaBank Help Platform
+#VeridaBank Help Center
 
 Whether you’re *getting started* or looking for *quick support* for your everyday banking, you’ll find all the answers you need here.
 
@@ -14,7 +14,7 @@ Whether you’re *getting started* or looking for *quick support* for your every
 - **<a href="Payments%20%26%20Transfers/Pay%20Bills/" class="dotted">Payments & Transfers</a>** to learn how to pay bills and transfer money  
 - **<a href="Security/Report%20Lost%20Card/" class="dotted">Security</a>** for protecting your account
 
-Explore the *VeridaBank Help Platform* and get the support you need.
+Explore the *VeridaBank Help Center* and get the support you need.
 
 !!! info
 
