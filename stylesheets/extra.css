@@ -27,4 +27,66 @@
   color: #ffffff;
 }
 
+/* --- Feedback Block Styles --- */
+
+/* Container: right-aligned, message on its own line */
+.feedback-footer {
+  display: flex;
+  flex-wrap: wrap;              /* lets message drop to its own line */
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+
+  font-size: inherit;           /* match article text */
+  color: inherit;
+  font-weight: 400;
+  line-height: inherit;
+}
+
+/* Row with question + buttons */
+.feedback-footer .feedback-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 400;
+}
+
+/* Yes/No buttons */
+#feedback-yes,
+#feedback-no {
+  display: inline-block;
+  padding: 0.25rem 0.7rem;
+  border: 1px solid #d0d0d0;
+  border-radius: 6px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 0.9em;             /* slightly smaller than body */
+  color: #666;                  /* grey text by default */
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+  vertical-align: middle;
+}
+
+/* Hover styles */
+#feedback-yes:hover {
+  background: #00BFA5;   /* teal background */
+  color: #fff;
+  border-color: #00997F; /* slightly darker teal */
+}
+#feedback-no:hover {
+  background: #fff3e0;   /* pale orange (Security Note background) */
+  color: #000;           /* dark text for readability */
+  border-color: #fb8c00; /* orange border */
+}
+
+/* Feedback message */
+#feedback-message {
+  flex-basis: 100%;             /* force onto new line */
+  text-align: right;
+  opacity: 0.95;
+  font-style: italic;
+  font-size: inherit;
+  font-weight: 400;
+  line-height: inherit;
+}
 
