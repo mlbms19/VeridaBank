@@ -16,3 +16,15 @@
   color: var(--md-accent-fg-color);
 }
 
+.md-footer {
+  background: linear-gradient(180deg, /* logo teal start */ #00BFA5 0%, /* slightly darker */ #00897B 100%);
+  color: #ffffff;
+}
+.md-footer a {
+  color: #b2dfdb;
+}
+.md-footer a:hover {
+  color: #ffffff;
+}
+
+
