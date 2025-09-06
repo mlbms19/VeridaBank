@@ -41,7 +41,7 @@ plugins:
   - search
 
 nav:
-    - Help Platform: index.md
+    - Help Center: index.md
     - Quick Answers:
         - Can I increase my transfer limit?: Quick Answers/Increase Transfer Limits.md
         - How do I activate my card?: Quick Answers/Activate Card.md
