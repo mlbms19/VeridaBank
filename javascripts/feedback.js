@@ -38,7 +38,7 @@
     }
 
     rebind(yes, () => show(
-      "We're glad we could help! <span class='no-italic' style=\"font-style:normal;font-weight:400;font-family:'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji','Twemoji Mozilla','EmojiOne Color',sans-serif\">🙂</span>"
+      "We're happy we could help! <span class='no-italic' style=\"font-style:normal;font-weight:400;font-family:'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji','Twemoji Mozilla','EmojiOne Color',sans-serif\">🙂</span>"
     ));
     rebind(no,  () => show("We heard you. We’ll work on making this article better."));
   }
