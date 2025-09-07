@@ -6,7 +6,7 @@ If you want to change your password, you can do so easily on **VeridaBank Online
 2.  Enter your **current password**.
 3.	Enter your **new password**.
 4.	Re-enter your new password to confirm.
-5.	Click **Reset**.
+5.	Click (or tap) **Reset**.
 
 ???+ abstract "Password Requirements"
 
