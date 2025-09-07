@@ -3,7 +3,7 @@ hide_feedback: true
 ---
 
 
-#VeridaBank Help Center
+#We're here to make banking easier for you.
 
 Whether you’re *getting started* or looking for *quick support* for your everyday banking, you’ll find all the answers you need here.
 
