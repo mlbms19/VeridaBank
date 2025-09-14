@@ -48,8 +48,8 @@ plugins:
 nav:
     - Help Center: index.md
     - Quick Answers:
+        - How do I activate my card?: Quick Answers/Activate Card.md    
         - Can I increase my transfer limit?: Quick Answers/Increase Transfer Limits.md
-        - How do I activate my card?: Quick Answers/Activate Card.md
         - How do I report a lost or stolen card?: Quick Answers/Report Lost or Stolen Card.md
         - Where can I find my account statements?: Quick Answers/Find Account Statements.md
     - Account Setup:
