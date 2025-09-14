@@ -53,6 +53,7 @@ nav:
         - How do I report a lost or stolen card?: Quick Answers/Report Lost or Stolen Card.md
         - Where can I find my account statements?: Quick Answers/Find Account Statements.md
     - Account Setup:
+        - How do I activate my card?: Account Setup/Activate Card.md
         - How do I set up two-factor authentication (2FA)?: Account Setup/Set up 2FA.md
     - Account Management:
         - How do I change my password?: Account Management/Change Password.md
