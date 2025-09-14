@@ -16,3 +16,10 @@
     3.	Choose **Cards**.
     4.	Select the card you want to lock.
     5.	Click (or tap) **Lock**.
+
+<div style="float:right; margin-top:12px;">
+  <strong>Related:</strong>
+  <a href="../Reset%20Card%20PIN/">Reset card PIN</a>
+</div>
+<div style="clear:both;"></div>
+

@@ -12,3 +12,10 @@ There are two ways you can activate your debit or credit card.
 
 === "In person"
     - &nbsp;&nbsp;Visit your nearest VeridaBank branch and we will activate the card for you.
+
+<div style="float:right; margin-top:12px;">
+  <strong>Related:</strong>
+  <a href="../Set%20up%202FA/">Set up two-factor authentication (2FA)</a>
+</div>
+<div style="clear:both;"></div>
+

@@ -21,3 +21,12 @@
 ???+ warning "Security Note"
 
     Do **NOT** use easy-to-guess numbers (e.g., 1234, your birth year).
+
+<div style="float:right; margin-top:12px;">
+  <strong>Related:</strong>
+  <a href="../Report%20Lost%20Card/">Report lost card</a>
+</div>
+<div style="clear:both;"></div>
+
+
+
