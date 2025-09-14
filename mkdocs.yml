@@ -39,6 +39,11 @@ theme:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: false
+      exclude:
+        - index.md
 
 nav:
     - Help Center: index.md

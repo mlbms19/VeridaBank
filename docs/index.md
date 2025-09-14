@@ -1,5 +1,7 @@
 ---
 hide_feedback: true
+hide:
+  - last-updated
 ---
 
 
