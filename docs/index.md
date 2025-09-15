@@ -9,7 +9,7 @@ hide:
 
 Whether you’re *getting started* or looking for *quick support* for your everyday banking, you’ll find all the answers you need here.
 
-- **<a href="Quick%20Answers/Increase%20Transfer%20Limits/" class="dotted">Quick Answers</a>** to the most common questions  
+- **<a href="Quick%20Answers/Activate%20Card/" class="dotted">Quick Answers</a>** to the most common questions  
 - **<a href="Account%20Setup/Set%20up%202FA/" class="dotted">Account Setup</a>** to help you get started  
 - **<a href="Account%20Management/Change%20Password/" class="dotted">Account Management</a>** for updating your account information  
 - **<a href="Everyday%20Banking/View%20Transactions/" class="dotted">Everyday Banking</a>** for your daily banking needs  
