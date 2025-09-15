@@ -10,7 +10,7 @@
     •&nbsp;&nbsp;	Visit your nearest VeridaBank branch and we will reset your PIN for you.
 
 === "On VeridaBank Online"
-    1.	Go to **Settings > Security**.
+    1.	Go to **Settings** > **Security**.
     2.	Under the PIN number pane, click (or tap) **Reset**.
     3.	Choose one of the following verification methods:
         - Click (or tap) **Verify by Email**

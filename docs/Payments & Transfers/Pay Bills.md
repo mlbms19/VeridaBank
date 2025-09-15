@@ -2,7 +2,7 @@
 
 **On VeridaBank Online**
 
-1.	Go to **Payments > Bills**.
+1.	Go to **Payments** > **Bills**.
 
 2.	Create or reuse payee details:<br>
     -	*New payee*:

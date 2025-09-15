@@ -1,7 +1,7 @@
 # How do I report a lost or stolen card?
 
 === "By phone"
-    •&nbsp;&nbsp;	Call **1-800-813-1743** immediately<br>
+    •&nbsp;&nbsp;	Call **1-800-813-1743** immediately.<br>
     •&nbsp;&nbsp;	A VeridaBank representative will lock your card and help issue a replacement.
     ???+ note
         If you receive a call claiming to be from VeridaBank, you can confirm its legitimacy by calling our official Anti-Fraud number: **1-800-813-1634**

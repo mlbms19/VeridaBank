@@ -2,7 +2,7 @@
 
 Yes, you can increase your daily or weekly transfer limit via **VeridaBank Online**:
 
-1. Go to **Account > Transfer Limit**.
+1. Go to **Account** > **Transfer Limit**.
 2. Choose **Daily Limit** or **Weekly Limit**.
 3. Enter your desired daily limit.
 4. Click (or tap) **Request**.

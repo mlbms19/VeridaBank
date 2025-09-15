@@ -2,7 +2,7 @@
 
 **On VeridaBank Online**
 
-1.	Go to **Payments > Billing**.
+1.	Go to **Payments** > **Billing**.
 2.	Under **Billing Method**, choose **e-Billing**.
 3.	Click (or tap) **Confirm**.<br>
 
