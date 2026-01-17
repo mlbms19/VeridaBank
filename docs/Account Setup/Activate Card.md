@@ -8,7 +8,7 @@ You will need to activate your debit or credit card before your first use. Activ
     3. Provide the **temporary pin** that was mailed to your address.
     4. For security, you'll also be asked to verify your personal information.
     ???+ note
-        If you receive a call claiming to be from VeridaBank, you can confirm its legitimacy by calling our **Anti-Fraud hotline (1-800-813-1634)**
+        If you receive a call claiming to be from VeridaBank, you can confirm its legitimacy by calling our **Anti-Fraud Hotline (1-800-813-1634)**.
 
 === "At our branch"
     - &nbsp;&nbsp;Visit your nearest VeridaBank branch and we will activate the card for you.
