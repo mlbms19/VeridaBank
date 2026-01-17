@@ -1,6 +1,6 @@
 # How do I transfer funds between banking accounts?
 
-You can move funds between your accounts on VeridaBank Online using internal transfer to ensure your balances are available for payments, withdrawals, or saving.
+You can move funds between your accounts using internal transfer on VeridaBank Online to ensure your balances are available for payments, withdrawals, or saving.
 
 **On VeridaBank Online**
 
