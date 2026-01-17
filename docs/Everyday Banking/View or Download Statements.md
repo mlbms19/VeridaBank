@@ -1,5 +1,7 @@
 # How do I view or download account statements?
 
+You can view or download your account statements through **Account Statements** to review past activity, verify transactions, or save copies for your records.
+
 **On VeridaBank Online**
 
 1.	Select **Account Statements**.
