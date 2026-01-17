@@ -22,4 +22,4 @@ Explore the *VeridaBank Help Center* and get the support you need.
 
     This "Help Center" is provided only as a <u>writing sample</u> and should not be relied upon in any way. All names, platform features, and phone numbers are fictional and do not represent any actual bank.
 
-    *Tools: MkDocs (Material for MkDocs), Markdown, CSS, VS Code, GitHub, Photoshop (logo, mockup screenshots)*
+    *Tools: MkDocs (Material for MkDocs), Markdown, CSS, VS Code, GitHub, Photoshop*
