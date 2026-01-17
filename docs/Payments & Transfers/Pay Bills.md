@@ -1,5 +1,7 @@
 # How do I pay bills?
 
+VeridaBank Online provides support for online bill payments, enabling you to set up payees, manage existing payee details, and submit payments securely from your account.
+
 **On VeridaBank Online**
 
 1.	Go to **Payments** > **Bills**.
