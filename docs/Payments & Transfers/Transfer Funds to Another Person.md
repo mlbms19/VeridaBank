@@ -11,7 +11,7 @@ You can transfer funds to a recipient through our online platform, even if they'
     - *First-time recipient*:<br>    
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Click (or tap) **New Recipient**.<br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Enter the required recipient details (e.g., recipient name, email address, payment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;message).<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Click (or tap) **Save**.
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Click (or tap) **Save**.<br><br>
 
     - *Previous recipient*:<br><br>
 
