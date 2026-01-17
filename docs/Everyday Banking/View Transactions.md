@@ -1,6 +1,8 @@
 # How do I view transactions?
 
-You can view transactions made *within the past 12 months*, anytime on **VeridaBank Online**.
+You can view and filter your transactions online by transaction type and time period.
+
+**On VeridaBank Online**
 
 1.	Go to **Account** > **Transactions**.
 2.	Filter by transaction type (e.g., Debit, Credit, Transfer) and time period.
