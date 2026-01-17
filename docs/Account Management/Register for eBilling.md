@@ -1,5 +1,7 @@
 # How do I register for e-Billing?
 
+e-Billing lets you receive your statements electronically instead of by mail. You can register for e-Billing from your payments settings.
+
 **On VeridaBank Online**
 
 1.	Go to **Payments** > **Billing**.
